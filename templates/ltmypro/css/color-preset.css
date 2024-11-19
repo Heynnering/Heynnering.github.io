@@ -1,0 +1,57 @@
+:root {
+    --background-color: currentColor;
+    --background: currentColor;
+    --text-color: currentColor;
+}
+.lt-btn:hover,
+.lt-slider-color i,
+.lt-about-img:before,
+.lt-team-item ul li,
+.lt-testimonial:before,
+.lt-service-item h5:before,
+.lt-service-item h5:after,
+.lt-timeline-item h5:before,
+.lt-timeline-item h5:after,
+.lt-counter-item h6:before,
+.lt-counter-item h6:after,
+.skills .skill .skill-bar span,
+.lt-title h2.sppb-title-heading:before,
+.lt-title h2.sppb-title-heading:after,
+div.itemCommentsForm form input#submitCommentButton,
+div.itemCommentsForm form input#submitCommentButton:hover,
+.creativecontactform_wrapper input.creativecontactform_send:hover,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:after {
+    background-color: var(--background-color);
+}
+.lt-btn,
+.lt-title h2.sppb-title-heading span,
+.lt-slider h4,
+.lt-slider h1 span,
+.lt-timeline-item h6,
+.lt-about-content-title h4,
+.lt-about-content p > strong,
+.lt-about-content-title p strong,
+.lt-service-item .sppb-icon i,
+.lt-client-item h5,
+body .sp-simpleportfolio .sp-simpleportfolio-filter > ul > li:hover > a,
+body .sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.lt-blog h3,
+.tp-caption a.btn-slider,
+.lt-contact-us ul li em,
+.lt-contact-form h4,
+div.k2ItemsBlock ul li a {
+	color: var(--text-color);
+}
+#sp-footer a,
+.creativecontactform_wrapper input.creativecontactform_send,
+.lt-slider-color,
+#sp-bottom a,
+.tp-caption a.btn-slider {
+  	color: var(--text-color)!important;
+}
+.lt-about-img:after,
+.lt-btn:hover,
+.creativecontactform_wrapper input.creativecontactform_send:hover {
+  border-color:var(--text-color)!important;
+}
+
